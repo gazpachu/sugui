@@ -1,6 +1,6 @@
 The radiobutton component allows the user to enable or disable options.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/radiobutton/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/radiobutton/index.jsx" target="_blank">component implementation</a>
 
 <style>
   .items { list-style-type: none; padding: 0; }

@@ -1,6 +1,6 @@
 The Textfield component adds labels, assistive text and validation to other form elements like inputs or select boxes
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/textfield/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/textfield/index.jsx" target="_blank">component implementation</a>
 
 <style>
   .inputs {

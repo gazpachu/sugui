@@ -1,6 +1,6 @@
 A Overlay component is very similar to the Dialog component. It is a full screen black overlay with a heading, close button and a space to place some content, like a search input or a form.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/overlay/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/overlay/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
 const { default: styled, css } = require('styled-components');

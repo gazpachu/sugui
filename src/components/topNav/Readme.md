@@ -1,6 +1,6 @@
 The top navigation component is a sticky bar that sits at the top of every app. It contains a logo and other buttons to access relevant functionality, like the side navigation, logout links, etc.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/topNav/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/topNav/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
 const { default: styled, css } = require('styled-components');

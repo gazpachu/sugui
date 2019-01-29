@@ -1,6 +1,6 @@
 The notification component is used to display messages to the user. I.e. after an API call, we might want to show a message with the error or returned from the server or a success message. The error hides automatically after clicking anywhere. The automatic hiding was disabled for UX reasons, as some users might not have enough time to read longer messages.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/notification/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/notification/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
 initialState = {

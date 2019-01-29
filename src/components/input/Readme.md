@@ -1,6 +1,6 @@
 The Input component allows the user to enter characters
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/input/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/input/index.jsx" target="_blank">component implementation</a>
 
 <style>
   .inputs {

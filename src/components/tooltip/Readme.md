@@ -1,6 +1,6 @@
 The Tooltip component shows a message on top of the referred element.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/tooltip/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/tooltip/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
 class TooltipExample extends React.Component {

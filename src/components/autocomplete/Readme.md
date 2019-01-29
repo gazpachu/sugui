@@ -1,6 +1,6 @@
 The AutoComplete component is similar to a dropdown select box. The difference is that, due to the amount of options, the search is done by typing letters in the input. By default, the user needs to enter 3 letters to trigger the search.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/autocomplete/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/autocomplete/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
 const initialState = { data: [{

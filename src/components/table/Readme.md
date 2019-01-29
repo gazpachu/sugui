@@ -2,7 +2,7 @@ The Table component is used to display data in rows and columns. It also include
 
 The search functionality uses the [react-search-input](https://github.com/enkidevs/react-search-input) lib in the background to filter the data in the table.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/table/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/table/index.jsx" target="_blank">component implementation</a>
 
 Simple table example:
 

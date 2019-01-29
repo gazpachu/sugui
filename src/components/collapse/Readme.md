@@ -1,6 +1,6 @@
 The collapse component is useful when we need to expand a container when clicking on an icon or button somewhere else
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/collapse/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/collapse/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
 const { default: styled } = require('styled-components');

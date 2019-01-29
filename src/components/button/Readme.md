@@ -1,6 +1,6 @@
 Buttons allow users to take actions, and make choices, with a single tap.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/button/index.jsx" target="_blank">button</a> and the <a href="https://github.com/gazpachu/sugui/src/components/button/_submitButton.jsx" target="_blank">submitButton</a>component implementations
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/button/index.jsx" target="_blank">button</a> and the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/button/_submitButton.jsx" target="_blank">submitButton</a>component implementations
 
 <style>
   .items { list-style-type: none; padding: 0; }

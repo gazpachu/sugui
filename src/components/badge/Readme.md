@@ -1,6 +1,6 @@
 Badge generates a small circle with a number to the right of its child(ren).
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/badge/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/badge/index.jsx" target="_blank">component implementation</a>
 
 <style>
   .items { list-style-type: none; padding: 0; }

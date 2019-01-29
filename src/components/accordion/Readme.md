@@ -1,6 +1,6 @@
 An accordions is a lightweight container that may either stand alone or be connected to a larger surface, such as a card.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/accordion/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/accordion/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
 const { default: styled } = require('styled-components');

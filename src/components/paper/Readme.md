@@ -1,6 +1,6 @@
 The Paper component is just a container with a shadow applied to it. It can be used to create cards or panels.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/paper/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/paper/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
 <Paper>

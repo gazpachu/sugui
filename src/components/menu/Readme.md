@@ -2,7 +2,7 @@ The Menu component creates a contextual floating list of items. It closes automa
 
 The anchor elements needs to have `position: relative`.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/menu/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/menu/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
 initialState = { anchorEl: null }

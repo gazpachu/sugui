@@ -1,6 +1,6 @@
 A small loading spinner to use when the app is fetching data from the API.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/circularProgress/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/circularProgress/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
 const theme = require('../theme/settings.js').default;

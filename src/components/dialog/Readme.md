@@ -1,6 +1,6 @@
 A dialog is a modal window with a full screen overlay at the back. It is useful when we need the user to perform a task within the context of a page. It usually contains a cancel and a submit button.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/dialog/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/dialog/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
 const { default: styled, css } = require('styled-components');

@@ -1,6 +1,6 @@
 The Grid component allows to create responsive liquid or fixed layouts.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/grid/index.jsx" target="_blank">Grid</a> and the the <a href="https://github.com/gazpachu/sugui/src/components/grid/_cell.jsx" target="_blank">Cell</a> component implementations
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/grid/index.jsx" target="_blank">Grid</a> and the the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/grid/_cell.jsx" target="_blank">Cell</a> component implementations
 
 ### Classic grid
 

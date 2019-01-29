@@ -1,6 +1,6 @@
 The Select component displays a select box.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/select/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/select/index.jsx" target="_blank">component implementation</a>
 
 <style>
   .selects {

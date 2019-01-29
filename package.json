@@ -1,8 +1,12 @@
 {
   "name": "sugui",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gazpachu/sugui.git"
+  },
   "peerDependencies": {
     "autosuggest-highlight": "^3.1.1",
     "lodash-es": "^4.17.10",

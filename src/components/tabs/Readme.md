@@ -4,7 +4,7 @@ There is a subcomponent called `Tab`, which takes an `activeTab` boolean prop to
 
 It works together with the `react-swipeable-views` module, which is used to slide portions of content from left to right.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/tabs/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/tabs/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
 const Tab = require('./_tab').default;

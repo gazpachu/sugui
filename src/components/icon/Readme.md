@@ -2,7 +2,7 @@ The Icon component is used to load SVG icons from the `/src/app/assets/svg` fold
 
 NOTE: This component requires the [svg-sprite-loader](https://github.com/kisenka/svg-sprite-loader) dependency in the project.
 
-For more info, please refer to the <a href="https://github.com/gazpachu/sugui/src/components/icon/index.jsx" target="_blank">component implementation</a>
+For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/icon/index.jsx" target="_blank">component implementation</a>
 
 Usage:
 
