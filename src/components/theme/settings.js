@@ -45,14 +45,5 @@ export default {
     abbey: '#4A4D4E',
     mineShaft: '#333333',
     black: '#000'
-  },
-
-  typography: {
-    footNote: {
-      fontSize: '14px',
-      lineHeight: '18px'
-    }
-  },
-
-  space: [0, 4, 8, 16, 32, 64, 128, 256, 512]
+  }
 };

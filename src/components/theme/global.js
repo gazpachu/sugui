@@ -20,7 +20,7 @@ const Global = createGlobalStyle`
   body {
     font-family: 'Open Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 24px;
 
     ${Mixins.mobile`

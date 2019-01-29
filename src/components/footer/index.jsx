@@ -5,8 +5,8 @@ const Footer = styled.div`
   margin: 0 auto;
   padding: 20px;
   color: ${props => props.theme.colors.white};
-  font-size: ${props => props.theme.typography.footNote.fontSize};
-  line-height: ${props => props.theme.typography.footNote.lineHeight};
+  font-size: 14px;
+  line-height: 18px;
   display: block;
 `;
 
