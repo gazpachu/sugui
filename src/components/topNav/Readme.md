@@ -5,10 +5,14 @@ For more info, please refer to the <a href="https://github.com/gazpachu/sugui/sr
 ```jsx
 const { default: styled, css } = require('styled-components');
 const Overlay = require('../overlay').default;
-const BonsaiLogo = require('../../logos/bonsaiLogo').default;
-const BonsaiSymbol = require('../../logos/bonsaiSymbol').default;
-const FitbidLogo = require('../../logos/fitbidLogo').default;
-const FitbidSymbol = require('../../logos/fitbidSymbol').default;
+
+const SuguiLogo = styled.div`
+
+`;
+
+const SuguiSymbol = styled.div`
+
+`;
 
 const initialState = { overlayOpened: null };
 
@@ -19,8 +23,8 @@ const StyledTopNav = styled(TopNav)`
 
 <div>
   <StyledTopNav
-    logo={<BonsaiLogo />}
-    symbol={<BonsaiSymbol />}
+    logo={<SuguiLogo />}
+    symbol={<SuguiSymbol />}
     isActive={false}
     header={{ name: 'T G' }}
     toggleNav={() => {}}
@@ -28,8 +32,8 @@ const StyledTopNav = styled(TopNav)`
   />
   <StyledTopNav
     withMargin // just for the example
-    logo={<FitbidLogo />}
-    symbol={<FitbidSymbol />}
+    logo={<SuguiLogo />}
+    symbol={<SuguiSymbol />}
     bg="secondary"
     color="white"
     isActive={false}
@@ -39,8 +43,8 @@ const StyledTopNav = styled(TopNav)`
   />
   <StyledTopNav
     withMargin // just for the example
-    logo={<FitbidLogo />}
-    symbol={<FitbidSymbol />}
+    logo={<SuguiLogo />}
+    symbol={<SuguiSymbol />}
     bg="aubergine"
     color="white"
     isActive={false}
