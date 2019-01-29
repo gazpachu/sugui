@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<svg
+  class="sc-bdVaJa fhdTuk"
+  viewBox="0 0 20 20"
+>
+  <use
+    xlink:href="#"
+  />
+</svg>
+`;

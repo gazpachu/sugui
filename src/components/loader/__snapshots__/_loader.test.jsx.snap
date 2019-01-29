@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<section
+  class="sc-bdVaJa NiJku"
+  data-testid="loader"
+>
+  <div
+    class="sc-bwzfXH lbGtxA"
+  >
+    <div
+      class="sc-htpNat davlbj"
+    />
+    <div
+      class="sc-EHOje dCSvZy"
+    >
+      <div
+        class="sc-bZQynM fTnrNt"
+      />
+    </div>
+    <div
+      class="sc-bxivhb dZAzLp"
+    >
+      <div
+        class="sc-ifAKCX fVKAHz"
+      >
+        Loading...
+      </div>
+    </div>
+  </div>
+  <button
+    class="sc-gzVnrw hsCKaI"
+  >
+    <svg
+      color="white"
+      height="31"
+      viewBox="0 0 32 31"
+      width="32"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g
+        fill="none"
+        fill-rule="evenodd"
+      >
+        <path
+          d="M0 0h32v32H0z"
+          fill="none"
+          stroke="none"
+        />
+        <path
+          d="M26.667 5.333L5.333 26.667M5.333 5.333l21.334 21.334"
+          stroke="white"
+          stroke-linecap="round"
+        />
+      </g>
+    </svg>
+  </button>
+</section>
+`;

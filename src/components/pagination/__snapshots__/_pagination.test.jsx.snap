@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<section
+  class="sc-bdVaJa eAwGjB"
+>
+  <span
+    class="sc-bwzfXH PUSH"
+  >
+    1
+     of 
+    5
+     pages
+  </span>
+  <button
+    class="sc-htpNat gSrXwc"
+    direction="prev"
+    disabled=""
+  >
+    <svg
+      class="sc-bxivhb kGLXKs"
+      color="#7F7F7F"
+      height="31"
+      viewBox="0 0 32 31"
+      width="32"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g
+        fill="none"
+        fill-rule="evenodd"
+      >
+        <path
+          d="M0 0h32v30.974H0z"
+          fill="none"
+          stroke="none"
+        />
+        <path
+          d="M27.333 10.97L16 21.94 4.667 10.97"
+          stroke="#7F7F7F"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </g>
+    </svg>
+  </button>
+  <select
+    class="sc-EHOje hgcqDe"
+  >
+    <option
+      value="1"
+    >
+      1
+    </option>
+    <option
+      value="2"
+    >
+      2
+    </option>
+    <option
+      value="3"
+    >
+      3
+    </option>
+    <option
+      value="4"
+    >
+      4
+    </option>
+    <option
+      value="5"
+    >
+      5
+    </option>
+  </select>
+  <button
+    class="sc-htpNat fwxgTY"
+  >
+    <svg
+      class="sc-ifAKCX cbdkhM"
+      color="#7F7F7F"
+      height="31"
+      viewBox="0 0 32 31"
+      width="32"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g
+        fill="none"
+        fill-rule="evenodd"
+      >
+        <path
+          d="M0 0h32v30.974H0z"
+          fill="none"
+          stroke="none"
+        />
+        <path
+          d="M27.333 10.97L16 21.94 4.667 10.97"
+          stroke="#7F7F7F"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </g>
+    </svg>
+  </button>
+</section>
+`;

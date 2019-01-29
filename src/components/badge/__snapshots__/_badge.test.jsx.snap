@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<div
+  class="sc-bdVaJa hcdjd"
+>
+  <div
+    class="sc-bwzfXH gfEmHN"
+  >
+    Test
+  </div>
+  <div
+    class="sc-htpNat jThmdM"
+    color="red"
+  >
+    2
+  </div>
+</div>
+`;

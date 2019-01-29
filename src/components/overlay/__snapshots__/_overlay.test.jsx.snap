@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<div
+  class="sc-bdVaJa ekGgFk"
+>
+  <button
+    class="sc-bxivhb iXnZQc"
+  >
+    <svg
+      color="white"
+      height="31"
+      viewBox="0 0 32 31"
+      width="32"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g
+        fill="none"
+        fill-rule="evenodd"
+      >
+        <path
+          d="M0 0h32v32H0z"
+          fill="none"
+          stroke="none"
+        />
+        <path
+          d="M26.667 5.333L5.333 26.667M5.333 5.333l21.334 21.334"
+          stroke="white"
+          stroke-linecap="round"
+        />
+      </g>
+    </svg>
+  </button>
+  <h2
+    class="sc-bwzfXH gqabdi"
+  />
+  <div
+    class="sc-htpNat dNZkBx"
+  />
+</div>
+`;

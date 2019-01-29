@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<span
+  class="sc-bwzfXH hDphcT"
+  tabindex="0"
+>
+  <span
+    class="sc-bdVaJa kJsJeZ"
+  />
+</span>
+`;

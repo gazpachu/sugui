@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<section
+  class="sc-bxivhb iXkHYQ"
+>
+  <div
+    class="sc-htoDjs fHktW"
+  >
+    <div
+      class="sc-iwsKbI pVEKQ"
+    >
+      <div
+        class="sc-bdVaJa fzvKwS"
+      >
+        <span
+          class="sc-htpNat fbiTxL"
+        >
+          TU
+        </span>
+      </div>
+      <ul
+        class="sc-dnqmqq bVLJvf"
+      >
+        <li
+          class="sc-gZMcBi dtjrKX"
+        >
+          <a
+            class="sc-gqjmRU iMegIq"
+            color="#333333"
+          >
+            <svg
+              class="sc-VigVT eewFoC"
+              color="#333333"
+              height="20"
+              viewBox="0 0 17 20"
+              width="17"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g
+                fill="none"
+                fill-rule="evenodd"
+              >
+                <path
+                  d="M19 22H-5V-2h24z"
+                  fill="none"
+                  stroke="none"
+                />
+                <path
+                  d="M16.474 9.995l-9.5.005M13.12 13.354L16.474 10 13.12 6.648"
+                  stroke="#333333"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+                <path
+                  d="M13.5 4.375V2A1.5 1.5 0 0 0 12 .5H2A1.5 1.5 0 0 0 .5 2v16A1.5 1.5 0 0 0 2 19.5h10a1.5 1.5 0 0 0 1.5-1.5v-2.5"
+                  stroke="#333333"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </g>
+            </svg>
+            Logout
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+`;

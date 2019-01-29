@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<section
+  class="sc-bdVaJa dngznU"
+>
+  <div
+    class="sc-bwzfXH kUPvzK"
+  >
+    <ul
+      class="sc-htpNat dNkWIe"
+    >
+      <li>
+        <a>
+          <svg
+            color="white"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <g
+              fill="none"
+              fill-rule="evenodd"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+                stroke="none"
+              />
+              <path
+                d="M12 16.313V10.5h-1M11 16.5h2"
+                stroke="white"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18.718 5.282A9.5 9.5 0 1 1 5.283 18.717 9.5 9.5 0 0 1 18.717 5.282"
+                stroke="white"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M11.927 7.448a.25.25 0 1 1-.354.354.25.25 0 0 1 .354-.354"
+                stroke="white"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M11.838 7.537a.125.125 0 1 1-.176.176.125.125 0 0 1 .176-.176"
+                stroke="white"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <circle
+                cx="11.75"
+                cy="7.63"
+                fill="white"
+                r="1"
+              />
+            </g>
+          </svg>
+          Home page
+        </a>
+      </li>
+      <li>
+        <a
+          href="/dashboard/faqs/"
+          rel="noreferrer noopener"
+          target="_blank"
+        >
+          <svg
+            color="white"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <g
+              fill="none"
+              fill-rule="evenodd"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+                stroke="none"
+              />
+              <path
+                d="M12 16.313V10.5h-1M11 16.5h2"
+                stroke="white"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18.718 5.282A9.5 9.5 0 1 1 5.283 18.717 9.5 9.5 0 0 1 18.717 5.282"
+                stroke="white"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M11.927 7.448a.25.25 0 1 1-.354.354.25.25 0 0 1 .354-.354"
+                stroke="white"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M11.838 7.537a.125.125 0 1 1-.176.176.125.125 0 0 1 .176-.176"
+                stroke="white"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <circle
+                cx="11.75"
+                cy="7.63"
+                fill="white"
+                r="1"
+              />
+            </g>
+          </svg>
+          FAQs
+        </a>
+      </li>
+    </ul>
+  </div>
+  <button
+    aria-label="overlay"
+    aria-labelledby="top-nav"
+    class="sc-bxivhb bdAqgJ"
+  />
+</section>
+`;

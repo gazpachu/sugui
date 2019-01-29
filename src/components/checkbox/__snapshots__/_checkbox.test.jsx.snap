@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<div
+  aria-checked="false"
+  class="sc-bdVaJa JwxJm"
+  role="checkbox"
+  tabindex="0"
+>
+  <div
+    class="sc-bwzfXH bUjTdr"
+    color="red"
+  />
+  <div
+    class="sc-htpNat hSkRsC"
+  >
+    Test
+  </div>
+</div>
+`;

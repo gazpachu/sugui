@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<div
+  class="sc-gqjmRU gBaGjA"
+>
+  <div
+    aria-expanded="false"
+    aria-haspopup="listbox"
+    aria-owns="react-autowhatever-1"
+    class="react-autosuggest__container"
+    role="combobox"
+  >
+    <div>
+       
+      <div
+        class="sc-EHOje iTZenT"
+      >
+        <input
+          aria-autocomplete="list"
+          aria-controls="react-autowhatever-1"
+          autocomplete="off"
+          class="react-autosuggest__input sc-bZQynM gDpbKP"
+          color="mineShaft"
+          placeholder=""
+          type="text"
+          value=""
+        />
+        <div
+          class="sc-htoDjs kCbvim"
+          color="mineShaft"
+        >
+          <svg
+            height="20"
+            viewBox="0 0 20 20"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <g
+              fill="none"
+              fill-rule="evenodd"
+            >
+              <path
+                d="M0 0h20v20H0z"
+                fill="none"
+                stroke="none"
+              />
+              <path
+                d="M12.041 3.792a5.833 5.833 0 1 1-8.25 8.25 5.833 5.833 0 0 1 8.25-8.25M12.04 12.04l5.877 5.877"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </g>
+          </svg>
+        </div>
+      </div>
+    </div>
+    <span
+      class="sc-VigVT iuLcPK"
+      color="mineShaft"
+    >
+      Type 3 letters or more
+    </span>
+    <ul
+      class="sc-jTzLTM lcGxWJ"
+    >
+      <li
+        class="sc-fjdhpX bNcSeZ"
+        color="mineShaft"
+      />
+      <li
+        class="sc-fjdhpX bNcSeZ"
+        color="mineShaft"
+      />
+      <li
+        class="sc-fjdhpX bNcSeZ"
+        color="mineShaft"
+      />
+    </ul>
+    <div
+      class="react-autosuggest__suggestions-container"
+      id="react-autowhatever-1"
+      role="listbox"
+    >
+      <section
+        class="sc-jzJRlG lfEMQK sc-gZMcBi kvUJhL"
+      />
+    </div>
+  </div>
+</div>
+`;

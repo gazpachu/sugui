@@ -1,0 +1,18 @@
+{
+  "presets": [
+    "env",
+    "stage-2",
+    "react"
+  ],
+  "plugins": [
+    "transform-runtime",
+    "transform-es2015-modules-umd"
+  ],
+  "env": {
+    "test": {
+      "plugins": [
+        "transform-es2015-modules-commonjs"
+      ]
+    }
+  }
+}

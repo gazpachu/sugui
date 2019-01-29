@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<div
+  class="sc-bdVaJa bhruBH"
+  data-testid="collapse"
+  style="height: 0px; opacity: 0;"
+>
+  Test
+</div>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<div
+  class="sc-bdVaJa dSMhla"
+>
+  <span
+    class="sc-htpNat fbiTxL"
+  >
+    EF
+  </span>
+</div>
+`;

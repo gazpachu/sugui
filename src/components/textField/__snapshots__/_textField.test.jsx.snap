@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without throwing an error 1`] = `
+<div>
+   
+  <div
+    class="sc-EHOje iTZenT"
+  >
+    <input
+      class="sc-bZQynM iHwYEh"
+      color="porcelain"
+    />
+  </div>
+</div>
+`;
