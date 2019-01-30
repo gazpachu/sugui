@@ -62,8 +62,7 @@
     "prebuild": "rimraf components && rimraf icons",
     "build": "babel src/components --out-dir components && babel src/icons --out-dir icons && babel src/logos --out-dir logos --ignore '**/*.test.js'",
     "build:watch": "babel src/icons --out-dir icons && babel src/logos --out-dir logos && babel src/components --watch --out-dir components --ignore '**/*.test.js'",
-    "postinstall": "postinstall-build --only-as-dependency components && postinstall-build --only-as-dependency icons",
-    "release": "node scripts/release.js"
+    "postinstall": "postinstall-build --only-as-dependency components && postinstall-build --only-as-dependency icons"
   },
   "author": "Joan Mira",
   "license": "MIT"
