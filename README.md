@@ -8,6 +8,8 @@ You can install it by typing the following in your project folder:
 
 Once installed, refer to the [design system website](https://gazpachu.github.io/sugui-design-system) to learn how to use the components and icons.
 
-# SugUI Design Sytem 
+# SugUI Design Sytem
 
 The design system website is also open source and you can find it [here](https://github.com/gazpachu/sugui-design-system)
+
+![](https://gazpachu.github.io/sugui-design-system/img/screenshot.jpg)
