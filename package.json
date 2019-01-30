@@ -1,14 +1,14 @@
 {
   "name": "sugui",
-  "version": "1.0.0-alpha.6",
+  "version": "1.0.0-alpha.7",
   "description": "",
   "main": "index.js",
-  "homepage": "https://gazpachu.github.io/sugui-design-system",
+  "homepage": "https://gazpachu.github.io/sugui-design-system/",
   "repository": {
     "type": "git",
     "url": "https://github.com/gazpachu/sugui.git"
   },
-  "keywords": ["ui", "ui-components", "ui-kit", "ui-library", "react", "reactjs", "styled-components", "design-system", "styledguidist"],
+  "keywords": ["ui", "ui-components", "ui-kit", "ui-library", "react", "reactjs", "styled-components", "design-system", "styledguidist", "javascript"],
   "peerDependencies": {
     "autosuggest-highlight": "^3.1.1",
     "lodash-es": "^4.17.10",
