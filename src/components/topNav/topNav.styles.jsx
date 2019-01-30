@@ -93,8 +93,6 @@ export const StyledLink = styled(Link)`
 `;
 
 export const Logo = styled.div`
-  svg { height: 28px; }
-
   ${Mixins.mobile`
     display: none;
   `}

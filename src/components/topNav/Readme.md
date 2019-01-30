@@ -5,26 +5,28 @@ For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tr
 ```jsx
 const { default: styled, css } = require('styled-components');
 const Overlay = require('../overlay').default;
-
-const SuguiLogo = styled.div`
-
-`;
-
-const SuguiSymbol = styled.div`
-
-`;
+const SuguiLogo = require('../../logos/suguiLogo').default;
+const SuguiSymbol = require('../../logos/suguiSymbol').default;
 
 const initialState = { overlayOpened: null };
 
+const StyledLogo = styled(SuguiLogo)`
+  padding: 7px;
+`;
+
+const StyledSymbol = styled(SuguiSymbol)`
+  padding: 7px;
+`;
+
 const StyledTopNav = styled(TopNav)`
   position: initial;
-  ${props => props.withMargin && css`margin-top: 120px`};
+  ${props => props.withMargin && css`margin-top: 80px`};
 `;
 
 <div>
   <StyledTopNav
-    logo={<SuguiLogo />}
-    symbol={<SuguiSymbol />}
+    logo={<StyledLogo />}
+    symbol={<StyledSymbol />}
     isActive={false}
     header={{ name: 'T G' }}
     toggleNav={() => {}}
@@ -32,8 +34,8 @@ const StyledTopNav = styled(TopNav)`
   />
   <StyledTopNav
     withMargin // just for the example
-    logo={<SuguiLogo />}
-    symbol={<SuguiSymbol />}
+    logo={<StyledLogo color="white" />}
+    symbol={<StyledSymbol color="white" />}
     bg="secondary"
     color="white"
     isActive={false}
@@ -43,8 +45,8 @@ const StyledTopNav = styled(TopNav)`
   />
   <StyledTopNav
     withMargin // just for the example
-    logo={<SuguiLogo />}
-    symbol={<SuguiSymbol />}
+    logo={<StyledLogo color="white" />}
+    symbol={<StyledSymbol color="white" />}
     bg="aubergine"
     color="white"
     isActive={false}
