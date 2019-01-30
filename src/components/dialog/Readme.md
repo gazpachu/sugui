@@ -4,8 +4,8 @@ For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tr
 
 ```jsx
 const { default: styled, css } = require('styled-components');
-
 const SubmitButton = require('../button/_submitButton').default;
+const Button = require('../button').default;
 
 const StyledButton = styled(Button)`
   margin-right: 10px;

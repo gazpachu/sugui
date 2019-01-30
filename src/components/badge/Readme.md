@@ -12,6 +12,6 @@ For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tr
 <ul className="items">
   <li><Badge bg="primary" content={4}>Item One</Badge></li>
   <li><Badge bg="secondary" content={8} size={30}>Item Two</Badge></li>
-  <li><Badge bg="digitalGreen" content={2} size={40}>Item Three</Badge></li>
+  <li><Badge bg="green" content={2} size={40}>Item Three</Badge></li>
 </ul>
 ```

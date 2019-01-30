@@ -3,6 +3,8 @@ The Tooltip component shows a message on top of the referred element.
 For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/tooltip/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
+const Button = require('../button').default;
+
 class TooltipExample extends React.Component {
   constructor(props) {
     super(props);

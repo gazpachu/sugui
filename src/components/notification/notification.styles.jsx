@@ -13,12 +13,12 @@ export const Container = styled.div`
   border-radius: 4px;
   overflow: hidden;
   box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
-  background-color: ${props => props.theme.colors.digitalGrey};
+  background-color: ${props => props.theme.colors.mineShaft};
   border: 1px solid ${(props) => {
-    if (props.variant === 'success') return props.theme.colors.digitalGreen;
-    if (props.variant === 'error') return props.theme.colors.digitalDarkRed;
+    if (props.variant === 'success') return props.theme.colors.green;
+    if (props.variant === 'error') return props.theme.colors.red;
     if (props.variant === 'warning') return props.theme.colors.lemonYellow;
-    return props.theme.colors.digitalGrey;
+    return props.theme.colors.mineShaft;
   }};
   animation: ${(props) => { if (props.open) return props.theme.animations.bounceInLeft; return props.theme.animations.fadeOut; }} 0.5s forwards;
 `;
@@ -50,9 +50,9 @@ export const IconBlock = styled.div`
   padding-top: 10px;
   text-align: center;
   background-color: ${(props) => {
-    if (props.variant === 'success') return props.theme.colors.digitalGreen;
-    if (props.variant === 'error') return props.theme.colors.digitalDarkRed;
+    if (props.variant === 'success') return props.theme.colors.green;
+    if (props.variant === 'error') return props.theme.colors.red;
     if (props.variant === 'warning') return props.theme.colors.lemonYellow;
-    return props.theme.colors.digitalGrey;
+    return props.theme.colors.mineShaft;
   }};
 `;

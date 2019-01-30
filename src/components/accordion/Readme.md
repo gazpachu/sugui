@@ -4,6 +4,8 @@ For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tr
 
 ```jsx
 const { default: styled } = require('styled-components');
+const CircularProgress = require('../circularProgress').default;
+const Button = require('../button').default;
 
 const StyledCircularProgress = styled(CircularProgress)`
   display: inline-block;

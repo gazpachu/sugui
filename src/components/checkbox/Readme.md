@@ -12,8 +12,8 @@ For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tr
 <ul className="items">
   <li><Checkbox color="primary">Item One</Checkbox></li>
   <li><Checkbox color="aubergine" checked>Item Two</Checkbox></li>
-  <li><Checkbox color="digitalGreen" checked>Item Three</Checkbox></li>
-  <li><Checkbox color="digitalGreen" checked disabled>Disabled checked</Checkbox></li>
+  <li><Checkbox color="green" checked>Item Three</Checkbox></li>
+  <li><Checkbox color="green" checked disabled>Disabled checked</Checkbox></li>
   <li><Checkbox color="primary" disabled>Disabled</Checkbox></li>
 </ul>
 ```

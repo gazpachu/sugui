@@ -24,18 +24,13 @@ const propTypes = {
   children: PropTypes.oneOfType([
     PropTypes.arrayOf(PropTypes.node),
     PropTypes.node
-  ]),
-  /**
-   * App string to build the FAQs link
-   */
-  app: PropTypes.string
+  ])
 };
 
 const defaultProps = {
   isActive: false,
   toggleNav: () => {},
-  children: null,
-  app: ''
+  children: null
 };
 
 const SideNav = props => (
@@ -46,9 +41,6 @@ const SideNav = props => (
           <Link to="/" onClick={() => props.toggleNav(false)}>
             <Info color="white" />Home page
           </Link>
-        </li>
-        <li>
-          <a href={`/dashboard/faqs/${props.app}`} target="_blank" rel="noreferrer noopener"><Info color="white" />FAQs</a>
         </li>
         {props.children}
       </NavItems>

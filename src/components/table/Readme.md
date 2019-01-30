@@ -312,6 +312,7 @@ const columnData2 = [
 
 const filters2 = ['id', 'name', 'country', 'date', 'email'];
 
+const Menu = require('../menu').default;
 const MoreVertIcon = require('../../icons/moreVert').default;
 const initialState = { anchorEl: null, currentId: null }
 
@@ -353,6 +354,7 @@ Table example with links, icons, currency formatting and buttons:
 
 ```jsx
 const { default: styled } = require('styled-components');
+const Button = require('../button').default;
 const CalendarIcon = require('../../icons/calendar').default;
 
 const StyledCalendarIcon = styled(CalendarIcon)`

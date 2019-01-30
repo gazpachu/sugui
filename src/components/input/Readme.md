@@ -13,6 +13,7 @@ For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tr
 
 ```jsx
 const theme = require('../theme/settings.js').default;
+const Button = require('../button').default;
 const SearchIcon = require('../../icons/search').default;
 const EditIcon = require('../../icons/edit').default;
 const LockedIcon = require('../../icons/locked').default;

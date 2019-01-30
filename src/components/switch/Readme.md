@@ -10,7 +10,7 @@ const StyledSwitch = styled(Switch)`
 `;
 
 <div>
-  <Switch bg="digitalGreen" />
+  <Switch bg="green" />
   <StyledSwitch disabled />
   <StyledSwitch defaultChecked />
   <StyledSwitch bg="freshOrange" defaultChecked />

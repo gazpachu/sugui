@@ -3,6 +3,9 @@ A Overlay component is very similar to the Dialog component. It is a full screen
 For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/overlay/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
+const Button = require('../button').default;
+const Accordion = require('../accordion').default;
+const Paper = require('../paper').default;
 const { default: styled, css } = require('styled-components');
 
 const initialState = { open: null, open2: null, open3: null }

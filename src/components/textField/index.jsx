@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { withTheme } from 'styled-components';
 import {
-  Wrapper,
   Label,
   Required,
   AssistiveText,
@@ -80,52 +79,43 @@ const defaultProps = {
   inputProps: null
 };
 
-class TextField extends Component {
-  constructor(props) {
-    super(props);
+const TextField = (props) => {
+  const {
+    label,
+    color,
+    size,
+    assistiveText,
+    isValid,
+    onClick,
+    onChange,
+    theme,
+    darkBg,
+    className,
+    inputProps,
+    icon,
+    iconPos
+  } = props;
 
-    this.state = {
-    };
-  }
-
-  render() {
-    const {
-      label,
-      color,
-      size,
-      assistiveText,
-      isValid,
-      onClick,
-      onChange,
-      theme,
-      darkBg,
-      className,
-      inputProps,
-      icon,
-      iconPos
-    } = this.props;
-
-    return (
-      <div className={className}>
-        {label ? <Label darkBg={darkBg}>{label}</Label> : null} {inputProps && inputProps.required ? <Required>*</Required> : null}
-        <Input
-          inputProps={inputProps}
-          color={color}
-          size={size}
-          isValid={isValid}
-          onClick={onClick}
-          onChange={onChange}
-          darkBg={darkBg}
-          icon={icon}
-          iconPos={iconPos}
-        />
-        {isValid !== null && !isValid && <StyledWarningIcon color={theme.colors.digitalDarkRed} />}
-        {isValid !== null && isValid && <StyledCheckIcon color={theme.colors.digitalGreen} />}
-        {assistiveText ? <AssistiveText darkBg={darkBg}>{assistiveText}</AssistiveText> : null}
-      </div>
-    );
-  }
-}
+  return (
+    <div className={className}>
+      {label ? <Label darkBg={darkBg}>{label}</Label> : null} {inputProps && inputProps.required ? <Required>*</Required> : null}
+      <Input
+        inputProps={inputProps}
+        color={color}
+        size={size}
+        isValid={isValid}
+        onClick={onClick}
+        onChange={onChange}
+        darkBg={darkBg}
+        icon={icon}
+        iconPos={iconPos}
+      />
+      {isValid !== null && !isValid && <StyledWarningIcon color={theme.colors.red} />}
+      {isValid !== null && isValid && <StyledCheckIcon color={theme.colors.green} />}
+      {assistiveText ? <AssistiveText darkBg={darkBg}>{assistiveText}</AssistiveText> : null}
+    </div>
+  );
+};
 
 TextField.propTypes = propTypes;
 TextField.defaultProps = defaultProps;

@@ -11,8 +11,8 @@ const sharedStyles = css`
   font-size: 16px;
   color: ${(props) => {
     if (props.darkBg && props.isValid === null) return props.theme.colors[props.color];
-    if (props.darkBg && props.isValid !== null && props.isValid) return props.theme.colors.digitalGreen;
-    if (props.darkBg && props.isValid !== null && !props.isValid) return props.theme.colors.digitalDarkRed;
+    if (props.darkBg && props.isValid !== null && props.isValid) return props.theme.colors.green;
+    if (props.darkBg && props.isValid !== null && !props.isValid) return props.theme.colors.red;
     return props.theme.colors.mineShaft;
   }};
   padding: 10px 0;
@@ -35,8 +35,8 @@ const sharedStyles = css`
   ${props => props.readOnly && css`cursor: pointer`};
 
   ${(props) => {
-    if (props.isValid !== null && props.isValid) return `border: 2px solid ${props.theme.colors.digitalGreen}`;
-    if (props.isValid !== null && !props.isValid) return `border: 2px solid ${props.theme.colors.digitalDarkRed}`;
+    if (props.isValid !== null && props.isValid) return `border: 2px solid ${props.theme.colors.green}`;
+    if (props.isValid !== null && !props.isValid) return `border: 2px solid ${props.theme.colors.red}`;
     return null;
   }}
 `;

@@ -7,7 +7,7 @@ export const Label = styled.label`
 `;
 
 export const Required = styled.span`
-  color: ${props => props.theme.colors.digitalDarkRed};
+  color: ${props => props.theme.colors.red};
 `;
 
 export const AssistiveText = styled.span`

@@ -5,6 +5,7 @@ The anchor elements needs to have `position: relative`.
 For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/menu/index.jsx" target="_blank">component implementation</a>
 
 ```jsx
+const Button = require('../button').default;
 initialState = { anchorEl: null }
 ;<div style={{ position: 'relative', width: '100px' }}>
   <Button

@@ -12,8 +12,8 @@ For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tr
 <ul className="items">
   <li><Radiobutton color="primary">Item One</Radiobutton></li>
   <li><Radiobutton color="aubergine" checked>Item Two</Radiobutton></li>
-  <li><Radiobutton color="digitalGreen" checked>Item Three</Radiobutton></li>
-  <li><Radiobutton color="digitalGreen" checked disabled>Disabled checked</Radiobutton></li>
+  <li><Radiobutton color="green" checked>Item Three</Radiobutton></li>
+  <li><Radiobutton color="green" checked disabled>Disabled checked</Radiobutton></li>
   <li><Radiobutton color="primary" disabled>Disabled</Radiobutton></li>
 </ul>
 ```
