@@ -9,6 +9,7 @@ import {
   LoaderLineMask,
   LoaderLine,
   Content,
+  Logo,
   StyledCloseButton
 } from './loader.styles';
 
@@ -54,7 +55,7 @@ const Loader = (props) => {
         </LoaderLineMask>
         <LoaderContent>
           <Content>
-            Loading...
+            <Logo color="white" />
           </Content>
         </LoaderContent>
       </LoaderWrapper>

@@ -1,4 +1,5 @@
 import styled, { keyframes } from 'styled-components';
+import SuguiLogo from '../../logos/suguiLogo';
 
 const rotate = keyframes`
   0% { transform: rotate(0deg) }
@@ -51,6 +52,11 @@ export const LoaderContent = styled.div`
 
 export const Content = styled.div`
   text-align: center;
+`;
+
+export const Logo = styled(SuguiLogo)`
+  width: 150px;
+  height: 150px;
 `;
 
 export const LoaderLineMask = styled.div`
