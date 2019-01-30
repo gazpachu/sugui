@@ -10,4 +10,4 @@ Once installed, refer to the [design system website](https://gazpachu.github.io/
 
 # SugUI Design Sytem 
 
-The design system website is also open source and you can find it in this repository: https://github.com/gazpachu/sugui-design-system
+The design system website is also open source and you can find it [here](https://github.com/gazpachu/sugui-design-system)
