@@ -1,5 +1,13 @@
-# SugUI
+# SugUI Components Library
 
-This package contains the SugUI components and icons library.
+SugUI is a UI library based on React and Styled Components.
 
-The design system website is located in this repository: https://github.com/gazpachu/sugui-design-system
+You can install it by typing the following in your project folder:
+
+`npm i sugui -S`
+
+Once installed, refer to the [design system website](https://gazpachu.github.io/sugui-design-system) to learn how to use the components and icons.
+
+# SugUI Design Sytem 
+
+The design system website is also open source and you can find it in this repository: https://github.com/gazpachu/sugui-design-system
