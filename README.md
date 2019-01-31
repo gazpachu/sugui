@@ -1,4 +1,5 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Build Status](https://travis-ci.org/gazpachu/sugui.svg?branch=master&style=flat-square)](https://travis-ci.org/gazpachu/sugui)
 
 # SugUI Components Library
 
