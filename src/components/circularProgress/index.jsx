@@ -16,7 +16,7 @@ const propTypes = {
    */
   labelPos: PropTypes.oneOf(['left', 'right']),
   /**
-   * Text to display beside the loader
+   * Inverts the foreground color for text and outlined variants
    */
   darkBg: PropTypes.bool,
   /**
