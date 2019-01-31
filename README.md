@@ -1,6 +1,6 @@
 # SugUI Components Library
 
-SugUI is a UI library based on React and Styled Components.
+SugUI is a UI library based on React, Styled Components and React testing library.
 
 You can install it by typing the following in your project folder:
 
