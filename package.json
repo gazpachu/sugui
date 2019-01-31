@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/gazpachu/sugui.git"
   },
-  "keywords": ["ui", "ui-components", "ui-kit", "ui-library", "react", "reactjs", "styled-components", "design-system", "styledguidist", "javascript"],
+  "keywords": ["ui", "ui-components", "ui-kit", "ui-library", "react", "reactjs", "styled-components", "design-system", "styledguidist", "react-testing-library", "javascript"],
   "peerDependencies": {
     "autosuggest-highlight": "^3.1.1",
     "lodash-es": "^4.17.10",
