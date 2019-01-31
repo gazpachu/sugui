@@ -1,3 +1,5 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 # SugUI Components Library
 
 SugUI is a UI library based on React, Styled Components and React testing library.
