@@ -1,6 +1,6 @@
-The Icon component is used to load SVG icons from the `/src/app/assets/svg` folder in the app. These icons are only used in that specific app. That is the reason why they are not in the UI library.
+The Icon component is used to load app-specific SVG icons.
 
-NOTE: This component requires the [svg-sprite-loader](https://github.com/kisenka/svg-sprite-loader) dependency in the project.
+NOTE: This component requires an SVG webpack loader like the [svg-sprite-loader](https://github.com/kisenka/svg-sprite-loader).
 
 For more info, please refer to the <a href="https://github.com/gazpachu/sugui/tree/master/src/components/icon/index.jsx" target="_blank">component implementation</a>
 

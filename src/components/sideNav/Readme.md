@@ -1,4 +1,4 @@
-The sideNav component sits on the left side of the screen. It contains by default one links to the homepage.
+The sideNav component sits on the left side of the screen. It contains by default one link to the homepage.
 
 It can be extended with more items by passing the `<li>` tags as children.
 
