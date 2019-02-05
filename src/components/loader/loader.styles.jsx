@@ -12,8 +12,8 @@ export const LoaderContainer = styled.section.attrs({
   position: fixed;
   top: ${(props) => { if (props.noTopNav) return '0'; return `${props.topOffset}px`; }}
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   background-color: rgba(0, 0, 0,.9);
   z-index: 4;
   display: flex;

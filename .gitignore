@@ -1,6 +1,7 @@
 /node_modules/
 /components/
 /icons/
+/logos/
 /coverage/
 .yarn-error.log
 .DS_Store
