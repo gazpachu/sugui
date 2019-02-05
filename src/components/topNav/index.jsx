@@ -76,11 +76,7 @@ const defaultProps = {
   bg: 'white',
   color: Theme.colors.mineShaft,
   children: null,
-  header: {
-    username: 'Test User',
-    name: 'Test User',
-    avatarUrl: ''
-  },
+  header: null,
   logo: null,
   symbol: null,
   className: null
