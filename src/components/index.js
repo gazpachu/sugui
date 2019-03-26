@@ -3,7 +3,6 @@ export { default as Accordion } from './accordion';
 export { default as AutoComplete } from './autocomplete';
 export { default as Avatar } from './avatar';
 export { default as Badge } from './badge';
-export { default as BrowserDetection } from './browserDetection';
 export { default as Button } from './button';
 export { default as Cell } from './grid/_cell';
 export { default as CircularProgress } from './circularProgress';
